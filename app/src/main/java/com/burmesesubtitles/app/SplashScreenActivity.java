@@ -58,9 +58,8 @@ public class SplashScreenActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splashscreen);
         db = new DatabaseHelper(SplashScreenActivity.this);
 
+        //loading progress
         ProgressBar progressBar = (ProgressBar)findViewById(R.id.progress);
-//        Sprite fadingCircle = new FadingCircle();
-//        progressBar.setIndeterminateDrawable(fadingCircle);
         Sprite threeBounce = new ThreeBounce();
         progressBar.setIndeterminateDrawable(threeBounce);
 
