@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nimbusds:nimbus-jose-jwt:8.10@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/8.10/825e9d7083eaaef897a92111f83e6572cacd4296/nimbus-jose-jwt-8.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/8.10/783a60af55f93c3ff76cd89ce20f232a0ccbc447/nimbus-jose-jwt-8.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/8.10/903100929da3654d387687f54fac517c6291f0c4/nimbus-jose-jwt-8.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

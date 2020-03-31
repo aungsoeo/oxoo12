@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.stfalcon:StfalconPriceRangeBar:0.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/282292e749ba5345651ac2baec3d8aee/jetified-StfalconPriceRangeBar-0.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/282292e749ba5345651ac2baec3d8aee/jetified-StfalconPriceRangeBar-0.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stfalcon/StfalconPriceRangeBar/0.1.1/6a0b61b49034558a96177b4ff0aa2e14924c139d/StfalconPriceRangeBar-0.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stfalcon/StfalconPriceRangeBar/0.1.1/799935a1552b4c2a9e81ba1971f2ff6d8de2a01c/StfalconPriceRangeBar-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

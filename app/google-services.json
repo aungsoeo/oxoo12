@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "77319221895",
+    "firebase_url": "https://burmesesub-6776d.firebaseio.com",
+    "project_id": "burmesesub-6776d",
+    "storage_bucket": "burmesesub-6776d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77319221895:android:2ea1d3b6497f9901e73e22",
+        "android_client_info": {
+          "package_name": "com.burmesesubtitle.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77319221895-lv6dk1khmdsmck82v3qnha6viu5evnuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burmesesubtitle.app",
+            "certificate_hash": "97111b2ac89dbfefd84fc8cd801bf70eee354708"
+          }
+        },
+        {
+          "client_id": "77319221895-vqll553f044rk6s7ekvg5b8l766b0t3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFm4W38Fj1MVH_fC-sNwDX6JTjsNL2b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77319221895-vqll553f044rk6s7ekvg5b8l766b0t3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
