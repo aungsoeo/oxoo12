@@ -1764,6 +1764,10 @@ public class DetailsActivity extends AppCompatActivity implements CastPlayer.Ses
                     }
                     setGenreText();
 
+                    //set realease year, imdb rating
+                    dGenryTv.setText( singleDetails.getRelease().substring(0,4)+"  |  IMDB - "+singleDetails.getImdb().toString()+"/10");
+
+
                     //----related tv series---------------
                     for (int i = 0; i < singleDetails.getRelatedTvseries().size(); i++) {
                         RelatedMovie relatedTvSeries = singleDetails.getRelatedTvseries().get(i);
@@ -1938,6 +1942,7 @@ public class DetailsActivity extends AppCompatActivity implements CastPlayer.Ses
                         }
                     }
                     tvGenre.setText(strGenre);
+                    //set realease year, imdb rating
                     dGenryTv.setText( singleDetails.getRelease().substring(0,4)+"  |  IMDB - "+singleDetails.getImdb().toString()+"/10");
 
                     //-----server----------

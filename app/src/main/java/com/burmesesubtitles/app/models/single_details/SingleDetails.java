@@ -20,6 +20,7 @@ public class SingleDetails {
     @Expose
     private String slug;
     @SerializedName("release")
+    //imdb rating
     @Expose
     private String release;
     @SerializedName("imdb_rating")
@@ -264,6 +265,7 @@ public class SingleDetails {
         this.relatedTvseries = relatedTvseries;
     }
 
+    //imdb rating
     public String getImdb() {
         return imdb_rating;
     }
