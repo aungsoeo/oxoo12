@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
 import android.content.pm.PackageManager;
+import android.content.res.Configuration;
 import android.graphics.Point;
 import android.media.AudioManager;
 import android.net.ConnectivityManager;
@@ -1438,7 +1439,7 @@ public class DetailsActivity extends AppCompatActivity implements CastPlayer.Ses
     private MediaSource hlsMediaSource(Uri uri, Context context) {
         DefaultBandwidthMeter bandwidthMeter = new DefaultBandwidthMeter();
         DataSource.Factory dataSourceFactory = new DefaultDataSourceFactory(context,
-                Util.getUserAgent(context, "oxoo"), bandwidthMeter);
+                Util.getUserAgent(context, "BS"), bandwidthMeter);
 
         MediaSource videoSource = new HlsMediaSource.Factory(dataSourceFactory)
                 .createMediaSource(uri);
